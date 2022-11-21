@@ -1,0 +1,30 @@
+package main
+
+func main() {
+	//Emb()
+	//Second()
+	//Three()
+	//StartFour()
+	//Five()
+	//Six()    <---------  без timesleep
+	//Seven()
+	//Eight()
+	//Nine()
+	//Ten()
+	//Eleven()
+	//Twelve()
+	//Thirteen()
+	//Fourteen()
+	//Fiveteen()
+	//Sixteen()
+	//Seventeen()
+	//Eighteen()
+	//Nineteen()
+	//Twenty()
+	//TwentyOne()
+	//TwentyTwo()
+	//TwentyThree()
+	TwentyFour()
+	//TwentyFive()
+	//TwentySix()
+}
